@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{BA8ECF19-1992-4F3C-A836-CD561FF0062F}|Default">
+  <MonoDevelop.Ide.ItemProperties.ChatR PreferredExecutionTarget="/Applications/Firefox.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChatR/Controllers/ChatController.cs">
+    <Files>
+      <File FileName="ChatR/Controllers/AuthController.cs" />
+      <File FileName="ChatR/Service/AuthService.cs" />
+      <File FileName="ChatR/Program.cs" />
+      <File FileName="ChatR/Dto/AuthDto.cs" />
+      <File FileName="ChatR/Dto/ResponseData.cs" />
+      <File FileName="ChatR/Dto/MessageDto.cs" />
+      <File FileName="ChatR/Controllers/ChatController.cs" Line="46" Column="1" />
+      <File FileName="ChatR/Service/ChatService.cs" />
+      <File FileName="ChatR/Service/ChatDBService.cs" Line="157" Column="1" />
+      <File FileName="ChatR/Data/Conversation.cs" />
+      <File FileName="ChatR/Data/User.cs" />
+      <File FileName="ChatR/Data/UserConversation.cs" />
+      <File FileName="ChatR/Data/Message.cs" />
+      <File FileName="ChatR/Dto/ActiveConversationDto.cs" />
+      <File FileName="ChatR/Dto/MessageViewDto.cs" />
+      <File FileName="ChatR/Hubs/ChatHub.cs" Line="51" Column="44" />
+      <File FileName="ChatR/Dto/ConversationsAndMessagesDto.cs" Line="7" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ChatR" expanded="True">
+            <Node name="ChatR">
+              <Node name="Controllers" expanded="True">
+                <Node name="ChatController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Dto" expanded="True" />
+              <Node name="Hubs" expanded="True" />
+              <Node name="Service" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

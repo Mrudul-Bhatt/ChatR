@@ -1,0 +1,7 @@
+{
+	"editor.fontFamily": "Consolas",
+	"editor.fontSize": 13,
+	"omnisharp.useModernNet": false,
+	"omnisharp.dotnetPath": "/usr/local/share/dotnet/dotnet"
+}
+
